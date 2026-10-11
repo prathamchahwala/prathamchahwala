@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on**  <br>Building my programming skills and developing small projects in C++.<br><br>👯 **I’m looking to collaborate on**  <br>Beginner-friendly software development and AI/ML projects.<br><br>🤝 **I’m looking for help with**  <br>Improving my coding skills, problem-solving, and learning AI/ML.<br><br>🌱 **I’m currently learning**  <br>C++, Data Structures & Algorithms, Python, and Artificial Intelligence & Machine Learning.<br><br>💬 **Ask me about**  <br>C++, programming basics, and my journey into software engineering.<br><br>⚡ **Fun fact**  <br>I dream of becoming a skilled Software Engineer and building innovative AI-powered solutions! 🚀
+🔭 **I’m currently working on** Building my programming skills and developing small projects in C++.<br><br>👯 **I’m looking to collaborate on** Beginner-friendly software development and AI/ML projects.<br><br>🤝 **I’m looking for help with** Improving my coding skills, problem-solving, and learning AI/ML.<br><br>🌱 **I’m currently learning** C++, Data Structures & Algorithms, Python, and Artificial Intelligence & Machine Learning.<br><br>💬 **Ask me about** C++, programming basics, and my journey into software engineering.<br><br>⚡ **Fun fact** I dream of becoming a skilled Software Engineer and building innovative AI-powered solutions! 🚀
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prathamchahwala&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
